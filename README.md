@@ -1,7 +1,6 @@
 
 <html>
 <head>
-<title>wikihow</title>
 </head>
 <body>
 <img src=https://storage.jv.ru/cd/enc_entry_15520_1264172207_resized.jpg>
